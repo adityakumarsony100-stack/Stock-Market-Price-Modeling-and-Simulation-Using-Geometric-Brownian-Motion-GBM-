@@ -125,7 +125,7 @@ pip install -r requirements.txt
 ## 👤 Author
 
 Aditya Kumar Sony
-MSc Physics / Financial Modeling Research
+BSc Mathematics / Financial Modeling Research
 Tribhuvan University
 
 ---
