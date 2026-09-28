@@ -95,32 +95,7 @@ GBM-Modeling/
 
 ---
 
-## ▶️ How to Run
 
-1. Clone the repository:
-
-```
-git clone https://github.com/yourusername/GBM-Modeling.git
-```
-
-2. Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-3. Run the simulation notebook or Python script.
-
----
-
-## 📈 Future Improvements
-
-* Implement GARCH model for time-varying volatility
-* Compare GBM with Jump Diffusion model
-* Perform forecasting accuracy evaluation
-* Risk metrics computation (VaR, CVaR)
-
----
 
 ## 👤 Author
 
